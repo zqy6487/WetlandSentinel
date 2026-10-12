@@ -5,7 +5,7 @@
 **Qiyun Zheng**  
 Shanghai Foreign Language School Affiliated to SISU, Shanghai, China
 
-[**Read the paper (PDF)**](WetlandSentinel_Qiyun_Zheng.pdf) · [**Download the PDF**](https://raw.githubusercontent.com/zqy6487/WetlandSentinel/main/WetlandSentinel_Qiyun_Zheng.pdf)
+[**Read the paper online**](https://zqy6487.github.io/WetlandSentinel/) · [**Download the PDF**](https://zqy6487.github.io/WetlandSentinel/WetlandSentinel_Qiyun_Zheng.pdf)
 
 WetlandSentinel is a remotely operated amphibious robot designed to support wetland observation across shallow water and terrestrial terrain. It combines an ellipsoidal body, an internally driven rotating shell, movable-mass steering, LoRa communication, and modular water-quality and vision sensing.
 
